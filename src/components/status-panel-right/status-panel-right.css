@@ -1,0 +1,13 @@
+ .status-panel-right h1, .status-panel-right p {
+	text-align: center;
+	color: #00ff00;
+	font-family: monospace;
+}
+
+.status-panel-right p {
+	font-size: 16px;
+}
+
+div.status-panel-right {
+	background-color: #000;
+}

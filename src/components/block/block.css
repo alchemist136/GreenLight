@@ -1,0 +1,23 @@
+div.block {
+	border-color: #00ff00;
+	border-width: 1.5px;
+	background-color: #000;
+	border-radius: 0%;
+}
+
+div.block:hover {
+	background-color: #00ff00;
+	
+}
+
+div.block:hover p {
+	color: #000;
+}
+
+p {
+	text-align: centre;
+	margin-top: 0.7rem;
+	margin-bottom: 0.7rem;
+	color: #00ff00;
+}
+

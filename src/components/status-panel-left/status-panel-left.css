@@ -1,0 +1,13 @@
+ .status-panel-left h1, .status-panel-left p {
+	text-align: center;
+	color: #00ff00;
+	font-family: monospace;
+}
+
+.status-panel-left p {
+	font-size: 16px;
+}
+
+div.status-panel-left {
+	background-color: #000;
+}
